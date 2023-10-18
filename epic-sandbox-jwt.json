@@ -1,0 +1,5 @@
+{
+  "alg": "RS384",
+  "typ": "JWT",
+  "iss": "client_id"
+}
